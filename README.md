@@ -114,7 +114,7 @@ To get a local copy up and running, follow these simple steps.
 | Name               | GitHub Profile                               |
 | ------------------ | -------------------------------------------- |
 | Yogesh S  | https://github.com/Yogesh-1910       |
-| Apurva S  |https://github.com/apurvas-04 |
+| Apurva S  |https://github.com/apurvas04 |
 
 
 ---
