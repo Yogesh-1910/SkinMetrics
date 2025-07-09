@@ -1,0 +1,5 @@
+Actinic keratoses (akiec)
+Basal cell carcinoma (bcc)
+Benign keratosis-like lesions (bkl)
+Dermatofibroma (df)
+Melanoma (mel)

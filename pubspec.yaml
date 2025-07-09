@@ -1,0 +1,35 @@
+name: skin_analyzer_app
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Using the stable package that works with your setup
+  flutter_tflite: ^1.0.1
+  
+  # Using compatible versions
+  image_picker: ^0.8.5+3
+  image: ^3.2.0
+
+  # Nice UI package for results
+  percent_indicator: ^4.2.3
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  
+
+# This is the main Flutter configuration block.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
