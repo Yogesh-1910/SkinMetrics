@@ -111,8 +111,6 @@ To get a local copy up and running, follow these simple steps.
 
 ## 🧑‍💻 Meet the Team
 
-This project was brought to life by a dedicated team of developers.
-
 | Name               | GitHub Profile                               |
 | ------------------ | -------------------------------------------- |
 | Yogesh S  | https://github.com/Yogesh-1910/        |
